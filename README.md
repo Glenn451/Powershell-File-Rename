@@ -3,9 +3,10 @@ Powershell script to quickly edit filenames in bulk by removing text at the begi
 
 
 Bypass the execution policy for this script so it can be run from command line
-Set-ExecutionPolicy bypass
 
-    use a # to comment out the lines you aren't using
+    Set-ExecutionPolicy bypass
+
+use a # to comment out the lines you aren't using
 
 replace all instances of a character or string, such as a space with an _ or a comma with a space
 In the below command the character or string to replace is X, the replacement text to be input is Y
