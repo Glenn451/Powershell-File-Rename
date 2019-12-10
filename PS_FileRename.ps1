@@ -1,4 +1,5 @@
-﻿#Set-ExecutionPolicy bypass
+﻿# Bypass the execution policy for this script so it can be run from command line
+Set-ExecutionPolicy bypass
 
 #use a # to comment out the lines you aren't using
 
